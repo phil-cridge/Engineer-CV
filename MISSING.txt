@@ -1,0 +1,9 @@
+The following files failed to download during site export. Please check them in the designer assets view (images) or dashboard (fonts).
+
+images/Group-16.svg
+images/Group-17.svg
+images/Vector-2.svg
+images/arrow-down-s-line-1.svg
+images/image_processing20200129-19798-1k8ponz-11-min.png
+images/image_processing20200129-19798-1k8ponz-13-min.png
+images/jake-nackos-IF9TK5Uy-KI-unsplash-12-min.png
